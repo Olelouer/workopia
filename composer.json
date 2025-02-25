@@ -1,0 +1,15 @@
+{
+    "name": "olelouer/workopia",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Olivier Le Louër"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
